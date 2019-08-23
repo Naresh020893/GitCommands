@@ -1,1 +1,1 @@
-All The List of git commands
+All The List of git commands and features
